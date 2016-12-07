@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">XBrowser</string>
+    <string name="launch_url">https://www.openxsl.com/m/index</string>
+</resources>
